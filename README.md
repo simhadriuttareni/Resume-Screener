@@ -98,20 +98,3 @@ MIT License — feel free to fork, use, and contribute!
 Java Backend Developer | ML & AI Enthusiast
 🔗 [LinkedIn](https://www.linkedin.com/in/simhadri-uttareni) • [GitHub](https://github.com/simhadriuttareni)
 
-````
-
----
-
-## ✅ How to Use It
-
-1. Copy this content into a file named `README.md` inside your project folder.
-2. Then run:
-
-```bash
-git add README.md
-git commit -m "Add professional README"
-git push
-````
-
----
-
